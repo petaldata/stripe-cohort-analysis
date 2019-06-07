@@ -13,6 +13,10 @@ Heavily inspired by Greg Reda's [Cohort Analysis with Python](http://www.gregred
 STRIPE_API_KEY=[YOUR API KEY] python stripe_cohort_analysis.py
 ```
 
+## Downloading Invoices
+
+[PetalData](https://petaldata.app) is used to download invoices from Stripe.
+
 ## Questions? 
 
 Email derek@petaldata.app.
