@@ -2,7 +2,7 @@
 
 __Are you retaining customers? Do you have - OMG - [negative churn](https://www.profitwell.com/blog/how-to-achieve-negative-churn-and-why-it-matters)? Are your hands sweating in anticipation? Let's find out! Now!__
 
-The `stripe_cohort_analysis.py` Python script generates 2 heatmaps of Stripe Customer Cohorts:
+This generates 2 heatmaps of Stripe Customer Cohorts:
 
 1. Customer retention over time
 2. Revenue retention over time
