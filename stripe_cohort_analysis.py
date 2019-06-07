@@ -2,7 +2,7 @@
 # STRIPE_API_KEY=[YOUR API KEY] python stripe_cohort_analysis.py
 #
 # Generates 2 heatmaps of Stripe Customer Cohorts showing customer and revenue retention over time. 
-# Heatmaps are saved as PNGs in the current working directory (total_customers_heatmap amount_due_heatmap.png, respectively).
+# Heatmaps are saved as PNGs in the current working directory (total_customers_heatmap.png and amount_due_heatmap.png, respectively).
 
 import petaldata
 import pandas as pd
