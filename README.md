@@ -22,7 +22,7 @@ STRIPE_API_KEY=[YOUR API KEY] python stripe_cohort_analysis.py
 
 ## Downloading Invoices
 
-[PetalData](https://petaldata.app) is used to download invoices from Stripe.
+PetalData's [Stripe API](https://petaldata.app/datasets/stripe/) is used to download invoices.
 
 ## Questions? 
 
